@@ -4,8 +4,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Fbchatful is a simple resftul service for sending message to users using fbchat.
-  - Fast (1s to send message) and ver stable .
+Fbchatful is a simple resftul service for sending message using fbchat.
+  - Fast (1s to send a message) and very stable .
   - No limits .
   - Magic .
 
@@ -14,7 +14,7 @@ Fbchatful is a simple resftul service for sending message to users using fbchat.
 
 Fbchatful support Python >2.7 & >3.4.
 Install the dependencies and devDependencies and start the server.
-# ubuntu
+# Ubuntu
 ```sh
 $ sudo pip install fbchat flask
 $ python app.py
